@@ -1624,3 +1624,178 @@ width: 40%;
 #tbottom1_right1 a span{
     border-bottom: 1px solid white;
 }
+
+
+
+    
+
+@media screen and (min-width: 375px) and (max-width:500px) {
+
+
+    body{
+        background-color: lightseagreen;
+    }
+    
+    #section-1{
+        width: 100vw;
+        height: 60vh !important;
+        overflow: hidden;
+        
+        
+    }
+
+    nav{
+        width: 100vw;
+        height: 10vh !important; 
+        
+        
+        position: fixed;
+        z-index: 9999;
+    
+    }
+
+
+
+    #heading h2{
+        padding: 0 3vw !important;
+        transition: all cubic-bezier(0.19, 1, 0.22, 1)1s;
+        font-size: 5vw !important;
+
+        font-family: 'cooper Lt BT';
+        
+
+
+    }   
+
+
+    #alinks1{
+    
+
+            margin-left: 10vw !important;
+    }
+
+    
+    #alinks1>a{
+        padding: 0 2vw !important;
+        color: black;
+        font-family: 'Helvetica';
+        font-weight: 100;
+        font-size: 2.5vw !important;
+    
+    }
+    #alinks1 a:hover{
+        text-decoration: 2px underline springgreen;
+    }
+
+
+    #head4{
+
+  visibility: hidden !important;
+
+    }
+
+  
+
+
+    #alinks1 h4{
+
+        display: flex;
+        align-items: center;
+        position: relative;
+        padding: 0 1.5vw; 
+        font-family: 'gilroy';
+        font-weight: 500;
+        font-size: 1vw;
+
+
+    }
+
+
+
+
+
+
+
+
+    
+#header_section1{
+    width: 100vw;
+    height: 50vh;
+
+    
+    display: flex;
+    flex-direction: column;
+        
+}
+
+#sec-1{
+
+    width: 100vw !important;
+    height: inherit !important;
+
+    background-color: yellow !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    overflow: hidden;
+
+}
+
+#img1{
+
+    width: 80% !important;
+    height: 80% !important;
+    margin-top: 50px;
+ 
+}
+#img1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+#sec-1-1{
+
+    visibility: hidden !important;
+}
+
+
+#sec-1-2{
+    
+    visibility: hidden !important;
+    background-color: yellow !important;
+
+}
+#section2{
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
