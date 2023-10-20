@@ -1632,12 +1632,12 @@ width: 40%;
 @media screen and (min-width: 375px) and (max-width:500px) {
 
 
-    body{
-     oversize-x:hidden !important;
+  #container{
+ 
+    overflow-x: hidden !important;
 
 
-        overflow: hidden;
-    }
+}
     
     #section-1{
         width: 100vw;
@@ -2055,7 +2055,7 @@ align-items: center !important;
    
 
     width: 100% !important;
-    height: 19vh !important;
+    height: 17vh !important;
 
 
    
