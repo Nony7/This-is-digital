@@ -2055,8 +2055,9 @@ align-items: center !important;
    
 
     width: 100% !important;
-    height: 17vh !important;
-
+ 
+   transform: scale(0.7);
+   
 
    
 
